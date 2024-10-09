@@ -1,3 +1,6 @@
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
 # codemagicdemo
 
 A new Flutter project.
